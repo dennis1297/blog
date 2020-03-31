@@ -1,10 +1,12 @@
 body{
-    background-color: #707070;
+    background-image: url(jw.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 /*-----------section--styles---start---here*/
-section {
-    background: #fff;                /*---Section--1--*/
-}
+/* section { */
+    /* background: #fff;                ---Section--1-- */
+/* } */
 .content {
     display: flex;
     margin: 0 auto;
