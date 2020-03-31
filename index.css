@@ -1,4 +1,6 @@
-
+body{
+    background-image: url(jw.gif);
+}
 /*-----------section--styles---start---here*/
 section {
     background: #fff;                /*---Section--1--*/
